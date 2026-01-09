@@ -1,2 +1,2 @@
 ceci est un readme
-je veux faire une conflit
+je ne veux pas de conflit
